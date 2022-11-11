@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Gastroscopy-Controller.OutJob
 Description=
-TargetOutputMedium=STEP 3D
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -136,7 +136,7 @@ OutputName7=BOM
 OutputCategory7=Report
 OutputDocumentPath7=[ActiveBOM Document]
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -148,7 +148,7 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
 Configuration7_Name2=General
-Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Naval\OneDrive\Документы\Industrial-Controller\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Controller\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration7_Name3=GroupOrder
 Configuration7_Item3=Comment=True|Footprint=True
 Configuration7_Name4=SortOrder
@@ -166,7 +166,7 @@ OutputName8=Export STEP
 OutputCategory8=Export
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -245,7 +245,7 @@ OutputFileNameMulti4==ProjectName+_+OutputType+_Rev_+GlobalRevisionPCB+_+Variant
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Users\Naval\OneDrive\Документы\Industrial-Controller\OUTPUT\BOM\
+OutputFilePath5=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Controller\OUTPUT\BOM\
 ReleaseManaged5=0
 OutputBasePath5=OUTPUT\
 OutputPathMedia5=[Media Name]
@@ -287,7 +287,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\Naval\OneDrive\Документы\Industrial-Controller\OUTPUT\BOM\
+RelativeOutputPath5=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Controller\OUTPUT\BOM\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
