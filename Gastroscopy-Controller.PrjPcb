@@ -362,69 +362,133 @@ DItemRevisionGUID=
 DocumentPath=OUTPUT\BOM\Gastroscopy-Controller_BOM_Rev_0.1.0_No Variations.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=OUTPUT\PRODUCTION\Gerber\Gastroscopy-Controller_Gerber_Rev_0.1.0_No Variations.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Controller_NC Drill_Rev_0.1.0_No Variations.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Controller_NC Drill_Rev_0.1.0_No Variations.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-Controller_NC Drill_Rev_0.1.0_No Variations.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=OUTPUT\STEP 3D\Gastroscopy-Controller_STEP_3D_Rev_0.1.0_No Variations.step
+DItemRevisionGUID=
+
 [Parameter1]
-Name=GlobalRevisionSCH
-Value=0.1.0
+Name=GlobalAddress1
+Value=nab. reki Karpovki, d. 5/3E
 
 [Parameter2]
-Name=GlobalRevisionPCB
-Value=0.1.0
-
-[Parameter3]
-Name=GlobalRevisionBOM
-Value=0.1.0
-
-[Parameter4]
-Name=GlobalProjectTitle
-Value=Gastroscopy Controller
-
-[Parameter5]
-Name=GlobalJiraKey
-Value=GSTRCNTRL
-
-[Parameter6]
-Name=GlobalEngineer
-Value=Podlesnyi Vasilii
-
-[Parameter7]
-Name=GlobalDocumentTitle
-Value=Gastroscopy Controller
-
-[Parameter8]
-Name=GlobalDocumentSubtitle
-Value=Gastroscopy Controller
-
-[Parameter9]
-Name=GlobalDocumentNumberSCH
-Value=0000-0000
-
-[Parameter10]
-Name=GlobalDocumentNumberPCB
-Value=0000-0000
-
-[Parameter11]
-Name=GlobalDocumentNumberDrawingPCB
-Value=0000-0000
-
-[Parameter12]
-Name=GlobalDocumentNumberDrawingASM
-Value=0000-0000
-
-[Parameter13]
-Name=GlobalCompanyName
-Value=MRobot, LCC
-
-[Parameter14]
-Name=GlobalAddress3
-Value=Ph: +7 (911) 701-51-99
-
-[Parameter15]
 Name=GlobalAddress2
 Value=Saint-Petersburg, 197022
 
+[Parameter3]
+Name=GlobalAddress3
+Value=Ph: +7 (911) 701-51-99
+
+[Parameter4]
+Name=GlobalCompanyName
+Value=MRobot, LCC
+
+[Parameter5]
+Name=GlobalDocumentNumberDrawingASM
+Value=0000-0000
+
+[Parameter6]
+Name=GlobalDocumentNumberDrawingPCB
+Value=0000-0000
+
+[Parameter7]
+Name=GlobalDocumentNumberPCB
+Value=0000-0000
+
+[Parameter8]
+Name=GlobalDocumentNumberSCH
+Value=0000-0000
+
+[Parameter9]
+Name=GlobalDocumentSubtitle
+Value=Gastroscopy Controller
+
+[Parameter10]
+Name=GlobalDocumentTitle
+Value=Gastroscopy Controller
+
+[Parameter11]
+Name=GlobalEngineer
+Value=Podlesnyi Vasilii
+
+[Parameter12]
+Name=GlobalJiraKey
+Value=GSTRCNTRL
+
+[Parameter13]
+Name=GlobalProjectTitle
+Value=Gastroscopy Controller
+
+[Parameter14]
+Name=GlobalRevisionBOM
+Value=0.1.0
+
+[Parameter15]
+Name=GlobalRevisionPCB
+Value=0.1.0
+
 [Parameter16]
-Name=GlobalAddress1
-Value=nab. reki Karpovki, d. 5/3E
+Name=GlobalRevisionSCH
+Value=0.1.0
 
 [Configuration1]
 Name=Sources
@@ -1063,6 +1127,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1425,115 +1519,115 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=1
 GlobalIndexSortLocation=0
-UniqueIDPath0=\YBWBUABX\5UWJDGOEX
-DocumentName0=Gastroscopy-Controller_Button.SchDoc
+UniqueIDPath0=\YBWBUABX\1HSYBTUVH
+DocumentName0=Gastroscopy-Controller_Relay.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=5
+Order0=11
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\YBWBUABX\3UWJDGOEX
+UniqueIDPath1=\YBWBUABX\1UWJDGOEX
 DocumentName1=Gastroscopy-Controller_Button.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=3
+Order1=1
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\YBWBUABX\1HSYBTUVH
-DocumentName2=Gastroscopy-Controller_Relay.SchDoc
+UniqueIDPath2=\YBWBUABX\4UWJDGOEX
+DocumentName2=Gastroscopy-Controller_Button.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=11
+Order2=4
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\YBWBUABX\ZPABQTFB
-DocumentName3=Gastroscopy-Controller_USB.SchDoc
+UniqueIDPath3=\YBWBUABX\5UWJDGOEX
+DocumentName3=Gastroscopy-Controller_Button.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=14
+Order3=5
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\YBWBUABX\6UWJDGOEX
-DocumentName4=Gastroscopy-Controller_Button.SchDoc
+UniqueIDPath4=\YBWBUABX
+DocumentName4=Gastroscopy-Controller_Overview.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=6
+Order4=10
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=
-DocumentName5=Gastroscopy-Controller_Title.SchDoc
+UniqueIDPath5=\YBWBUABX\GNMELJUL
+DocumentName5=Gastroscopy-Controller_MCU.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=13
+Order5=8
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\YBWBUABX\IBRDDTPK
-DocumentName6=Gastroscopy-Controller_Accelerometer.SchDoc
+UniqueIDPath6=\YBWBUABX\6UWJDGOEX
+DocumentName6=Gastroscopy-Controller_Button.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=15
+Order6=6
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\YBWBUABX\4UWJDGOEX
+UniqueIDPath7=\YBWBUABX\3UWJDGOEX
 DocumentName7=Gastroscopy-Controller_Button.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=4
+Order7=3
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\YBWBUABX\2HSYBTUVH
-DocumentName8=Gastroscopy-Controller_Relay.SchDoc
+UniqueIDPath8=\YBWBUABX\2UWJDGOEX
+DocumentName8=Gastroscopy-Controller_Button.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=12
+Order8=2
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\YBWBUABX\2UWJDGOEX
-DocumentName9=Gastroscopy-Controller_Button.SchDoc
+UniqueIDPath9=\YBWBUABX\ZPABQTFB
+DocumentName9=Gastroscopy-Controller_USB.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=2
+Order9=14
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\YBWBUABX\GNMELJUL
-DocumentName10=Gastroscopy-Controller_MCU.SchDoc
+UniqueIDPath10=\YBWBUABX\IBRDDTPK
+DocumentName10=Gastroscopy-Controller_Accelerometer.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=8
+Order10=15
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\YBWBUABX\1UWJDGOEX
-DocumentName11=Gastroscopy-Controller_Button.SchDoc
+UniqueIDPath11=\YBWBUABX\BGUMMTZJ
+DocumentName11=Gastroscopy-Controller_LED.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=1
+Order11=7
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\YBWBUABX\BGUMMTZJ
-DocumentName12=Gastroscopy-Controller_LED.SchDoc
+UniqueIDPath12=\YBWBUABX\2HSYBTUVH
+DocumentName12=Gastroscopy-Controller_Relay.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=7
+Order12=12
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\YBWBUABX
-DocumentName13=Gastroscopy-Controller_Overview.SchDoc
+UniqueIDPath13=
+DocumentName13=Gastroscopy-Controller_Title.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=10
+Order13=13
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
